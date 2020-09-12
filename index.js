@@ -131,7 +131,5 @@ archjson
       row.appendChild(correlation);
       tablePunto2.appendChild(row);
     }
-
-    console.log(sorted);
   })
   .catch((error) => console.log(error));
